@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SammystTheAnalyst
+- 👋 Hi, I’m SammystTheAnalyst
 - 👀 I’m interested in data analysis and visualization using tools such as Python pandas, SQL, Tableau and PowerBI
 - 🌱 I’m currently learning Webscraping and SQL(MySQL)
 - 💞️ I’m looking to collaborate on new and dynamic projects that involves data.
